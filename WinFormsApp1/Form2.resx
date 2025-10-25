@@ -117,7 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="textBox2.Text" xml:space="preserve">
-    <value>This software is here to help you get regular exercise when you are sitting in front of your computer screen. The software will notify you when you have exceeded the time you would like to spend in front of the computer screen. You can enter the time in the box below in minutes.</value>
-  </data>
 </root>
